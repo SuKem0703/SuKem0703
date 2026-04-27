@@ -1,22 +1,23 @@
-# Hi there, I'm Bùi Bình Nguyên! 👋
+# 👋 Hi there, I'm Bùi Bình Nguyên!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=239120&center=true&vCenter=true&width=600&lines=Backend+Developer;2D+Game+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
 I am a Backend Developer with a strong focus on building high-concurrency RESTful APIs and real-time data synchronization. I also have hands-on experience in 2D Game Development, focusing on system architecture and clean code principles.
 
 ## 🚀 Tech Stack
 
-**Languages & Frameworks:**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Databases & Tools:**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Game Engine:**
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+</div>
 
 ## 💼 Featured Projects
 
@@ -24,16 +25,23 @@ I am a Backend Developer with a strong focus on building high-concurrency RESTfu
 * **Node.js Data Management API:** Migrated a concurrent data processing server from ASP.NET Core to Node.js/TypeScript, optimizing server resources for high-frequency endpoints.
 * **ASP.NET Data Management Server:** High-concurrency RESTful API server handling data storage, player state management, and item synchronization.
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuKem0703&show_icons=true&theme=radium&locale=en" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuKem0703&layout=compact&theme=radium" alt="Top Languages" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuKem0703&theme=radium" alt="GitHub Streak" />
+</div>
+
 ## 🌱 Beyond Coding
 
 When I'm not writing code, I enjoy exploring other creative and analytical fields:
 
-* **🎵 Music:** I actively practice both acoustic fingerstyle and electric guitar. I have a strong passion for J-Rock and anime soundtracks.
-* **🎨 Art & Painting:** Currently learning painting and visual arts to enhance my creative thinking, which also provides great inspiration for conceptualizing 2D game environments and characters.
-
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuKem0703&show_icons=true&theme=radium)](https://github.com/SuKem0703)
+* **🎵 Music & 🎨 Art:** I actively practice acoustic fingerstyle and electric guitar (especially J-Rock). I'm also learning visual arts to enhance my creative thinking and conceptualize 2D game environments.
+* **♟️ Strategy & 📜 History:** I play competitive chess, studying opening theories like the Caro-Kann Defense and Alien Gambit. I also have a deep interest in ancient military philosophy and East Asian history, from the Warring States period to the Ming dynasty.
 
 ## 📫 Let's Connect
 
