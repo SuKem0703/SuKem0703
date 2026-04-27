@@ -1,13 +1,5 @@
 # 👋 Hi there, I'm Bùi Bình Nguyên!
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SuKem0703/count.svg" alt="Profile Views" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=239120&center=true&vCenter=true&width=600&lines=Backend+Developer;2D+Game+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</div>
-
 I am a Backend Developer with a strong focus on building high-concurrency RESTful APIs and real-time data synchronization. I also have hands-on experience in 2D Game Development, focusing on system architecture and clean code principles.
 
 ## 🎓 Education
@@ -33,17 +25,6 @@ I am a Backend Developer with a strong focus on building high-concurrency RESTfu
 * **Node.js Data Management API:** Migrated a concurrent data processing server from ASP.NET Core to Node.js/TypeScript, optimizing server resources for high-frequency endpoints.
 * **ASP.NET Data Management Server:** High-concurrency RESTful API server handling data storage, player state management, and item synchronization.
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuKem0703&show_icons=true&theme=radium&locale=en" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuKem0703&layout=compact&theme=radium" alt="Top Languages" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuKem0703&theme=radium" alt="GitHub Streak" />
-</div>
-
 ## 🌱 Beyond Coding
 
 When I'm not writing code, I enjoy exploring other creative and analytical fields:
@@ -54,7 +35,6 @@ When I'm not writing code, I enjoy exploring other creative and analytical field
 ## 📫 Let's Connect
 
 * **Email:** anhnguyen.732004@gmail.com
-* **LinkedIn:** [Thêm link LinkedIn của bạn tại đây]
 
 ## 🐍 Contribution Snake
 <div align="center">
