@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Bùi Bình Nguyên!
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=239120&center=true&vCenter=true&width=600&lines=Backend+Developer;2D+Game+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
 I am a Backend Developer with a strong focus on building high-concurrency RESTful APIs and real-time data synchronization. I also have hands-on experience in 2D Game Development, focusing on system architecture and clean code principles.
 
 ## 🎓 Education
