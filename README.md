@@ -1,10 +1,18 @@
 # 👋 Hi there, I'm Bùi Bình Nguyên!
 
 <div align="center">
+  <img src="https://profile-counter.glitch.me/SuKem0703/count.svg" alt="Profile Views" />
+</div>
+<br/>
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=239120&center=true&vCenter=true&width=600&lines=Backend+Developer;2D+Game+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 I am a Backend Developer with a strong focus on building high-concurrency RESTful APIs and real-time data synchronization. I also have hands-on experience in 2D Game Development, focusing on system architecture and clean code principles.
+
+## 🎓 Education
+
+* **Software Engineering** - Ho Chi Minh City University of Technology (HUTECH)
 
 ## 🚀 Tech Stack
 
@@ -46,3 +54,13 @@ When I'm not writing code, I enjoy exploring other creative and analytical field
 ## 📫 Let's Connect
 
 * **Email:** anhnguyen.732004@gmail.com
+* **LinkedIn:** [Thêm link LinkedIn của bạn tại đây]
+
+## 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuKem0703/SuKem0703/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuKem0703/SuKem0703/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SuKem0703/SuKem0703/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
