@@ -33,8 +33,8 @@ I am a Backend Developer with a strong focus on building high-concurrency RESTfu
 
 When I'm not writing code, I enjoy exploring other creative and analytical fields:
 
-* **🎵 Music & 🎨 Art:** I actively practice acoustic fingerstyle and electric guitar (especially J-Rock). I'm also learning visual arts to enhance my creative thinking and conceptualize 2D game environments.
-* **♟️ Strategy & 📜 History:** I play competitive chess, studying opening theories like the Caro-Kann Defense and Alien Gambit. I also have a deep interest in ancient military philosophy and East Asian history, from the Warring States period to the Ming dynasty.
+* **🎵 Music:** I actively practice both acoustic fingerstyle and electric guitar. I have a strong passion for J-Rock and anime soundtracks.
+* **🎨 Art & Painting:** Currently learning painting and visual arts to enhance my creative thinking, which also provides great inspiration for conceptualizing 2D game environments and characters.
 
 ## 📫 Let's Connect
 
