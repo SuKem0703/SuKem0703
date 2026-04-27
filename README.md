@@ -20,9 +20,16 @@ I am a Backend Developer with a strong focus on building high-concurrency RESTfu
 
 ## 💼 Featured Projects
 
-* **Chronicles of Knight and Mage:** A 2D Action-RPG with real-time data interaction, developed using Unity and backed by a centralized server system. Focuses on OOP, SOLID, and FSM for Enemy AI.
+* **Chronicles of Knight and Mage:** A free-to-play, story-driven 2D Action-RPG on Steam, developed using Unity and backed by a centralized server system. Focuses on OOP, SOLID, and FSM for Enemy AI.
 * **Node.js Data Management API:** Migrated a concurrent data processing server from ASP.NET Core to Node.js/TypeScript, optimizing server resources for high-frequency endpoints.
 * **ASP.NET Data Management Server:** High-concurrency RESTful API server handling data storage, player state management, and item synchronization.
+
+## 🌱 Beyond Coding
+
+When I'm not writing code, I enjoy exploring other creative and analytical fields:
+
+* **🎵 Music:** I actively practice both acoustic fingerstyle and electric guitar. I have a strong passion for J-Rock and anime soundtracks.
+* **🎨 Art & Painting:** Currently learning painting and visual arts to enhance my creative thinking, which also provides great inspiration for conceptualizing 2D game environments and characters.
 
 ## 📈 GitHub Stats
 
@@ -31,4 +38,3 @@ I am a Backend Developer with a strong focus on building high-concurrency RESTfu
 ## 📫 Let's Connect
 
 * **Email:** anhnguyen.732004@gmail.com
-* **LinkedIn:** [Thêm link LinkedIn của bạn tại đây]
